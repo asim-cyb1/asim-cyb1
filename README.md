@@ -1,6 +1,6 @@
 # Asim Mahroos Mohammed
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohd-asim-943a18207/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asim-mahroos-mohammed-943a18207/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail)](mailto:asimcyb@gmail.com)
 
 Experienced Full Stack Developer Intern with expertise in Java, Spring Boot, HTML, CSS, and JavaScript (React.js). Currently pursuing a Master's in Computer Science with a focus on Artificial Intelligence.
