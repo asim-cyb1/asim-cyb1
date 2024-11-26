@@ -5,29 +5,6 @@
 
 Experienced Full Stack Developer Intern with expertise in Java, Spring Boot, HTML, CSS, and JavaScript (React.js). Currently pursuing a Master's in Computer Science with a focus on Artificial Intelligence.
 
-## Education
-- **Master's, Computer Science**
-  University of North Texas, August 2022 - May 2024
-  GPA: 3.6
-
-## Professional Experience
-**Full Stack Developer**  
-Innovacx Tech Labs, Hyderabad, Telangana, India  
-May 2021 - April 2022
-- Developed RESTFUL services and API's in Microservices environment using Spring MVC framework.
-- Developed UI templates utilizing HTML 5, CSS 3, and React.js.
-- Played a pivotal role in Agile Scrum teams, developing new services using the Spring framework backend.
-
-## Projects
-**Indeed-Clone**
-- Designed and implemented an Indeed clone using React.js for the frontend, Spring Boot for the backend, and MongoDB for the database.
-
-**Multilingual Abusive Language Detection using Machine Translation**
-- Developed a NLP system to detect and filter abusive language across multiple languages using machine translation techniques and deep learning models.
-
-**Decentralized Blockchain Application**
-- Developed a decentralized application (DApp) utilizing Solidity, Ganache, MetaMask, and React for smart contract integration and user-friendly front-end design.
-
 ## Skills
 - Programming Languages: Java, Python, C++
 - Front-end: HTML, CSS, JavaScript, React.js
